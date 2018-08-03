@@ -10,8 +10,13 @@
 
 Nesta lição aprenderemos:
 
+<<<<<<< HEAD
 - Como utilizar o feedback de usuários reais para dar forma a um produto ou serviço
 - Qual é o estado aual e quais são as tendências em UX Design
+=======
+- Como utilizar o feedback de usuários reais para dar forma a um produto ou serviço.
+- Qual é o estado atual e quais são as tendências em UX Design.
+>>>>>>> upstream/pt
 
 ## Por que passar pelo processo de design?
 
@@ -19,9 +24,15 @@ Porque ao vivenciar como se cria um produto passando por um processo completo de
 
 ## Guia de perguntas e conceitos chave
 
+<<<<<<< HEAD
 Quando começamos a estudar um tema novo, é útil ter uma ideia dos conceitos mais imporantes que vamos aprender e dos temas centrais a que devemos prestar atenção especial.
 
 A seguir apresentamos uma série de perguntas que você deve ser capaz de responder ao terminar esta unidade. Utilize estas perguntas como gua para orientar seus esforços de aprendizagem. Retorne a elas constantemente para garantir que está indo na direção correta. Que lhe sirve como um "checklist" que você irá marcando conforme avança.
+=======
+Quando começamos a estudar um tema novo, é útil ter uma ideia dos conceitos mais importantes que vamos aprender e dos temas centrais a que devemos prestar atenção especial.
+
+A seguir apresentamos uma série de perguntas que você deve ser capaz de responder ao terminar esta unidade. Utilize estas perguntas como guia para orientar seus esforços de aprendizagem. Retorne a elas constantemente para garantir que está indo na direção correta. Que lhe sirva como um "checklist" que você irá marcando conforme avança.
+>>>>>>> upstream/pt
 
 - Quais são as fases de um processo de design?
 

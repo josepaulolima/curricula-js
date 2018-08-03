@@ -8,9 +8,15 @@
 
 ## Agenda
 
+<<<<<<< HEAD
 ### 1. Revisemos o que aprendemos até agora
 
 ### 2. Respondamos às perguntas da abertura
+=======
+### 1. Revisemos o que aprendemos até agora.
+
+### 2. Respondamos às perguntas da abertura.
+>>>>>>> upstream/pt
 
 - O que é um Framework?
 

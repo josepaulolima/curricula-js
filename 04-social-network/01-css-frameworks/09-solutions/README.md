@@ -8,8 +8,13 @@
 
 ## Objetivos
 
+<<<<<<< HEAD
 - Revisar as soluções dos desafios que resolvemos
 - Entender que existe mais de uma forma de resolver os problemas e analizar as vantagens e desvantagens de cada solução proposta
+=======
+- Revisar as soluções dos desafios que resolvemos.
+- Entender que existe mais de uma forma de resolver os problemas e analizar as vantagens e desvantagens de cada solução proposta.
+>>>>>>> upstream/pt
 
 ## Agenda
 
