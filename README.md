@@ -1,13 +1,28 @@
+<<<<<<< HEAD
 # Introduction
+=======
+# Bootcamp @Laboratoria
+>>>>>>> upstream/master
 
 ![Build Status](https://travis-ci.org/Laboratoria/curricula-js.svg?branch=master)
 
+<<<<<<< HEAD
 Este repositorio es el lugar donde vamos a ir continuamente _diseñando_ nuestro programa de formación en **JavaScript**.
 
 En este repo se irán _ordenando_, _desarrollando_, _discutiendo_ y _proponiendo_ todo lo que tenga que ver con el diseño de la _malla curricular_ y _cursos_.
+=======
+## Introducción
 
-## La _malla curricular_
+Nuestro _bootcamp_ es un programa de formación inmersivo de 6 meses enfocado en
+**Front End Development** y **UX Design**. Nuestra metodología de aprendizaje
+trata de imitar el entorno de trabajo real y se centra en completar una serie de
+_proyectos_ de complejidad gradualmente creciente.
+>>>>>>> upstream/master
 
+Cada _proyecto_ se acompaña con una serie de _tópicos_ sugeridos incluyendo
+materiales de aprendizaje por cuenta propia (_self-paced_).
+
+<<<<<<< HEAD
 Cuando decimos _malla curricular_ nos referimos al _big picture_, el _hilo conductor_ que conecta el conjunto de _cursos_.
 
 Nuestra propuesta de _modelo de aprendizaje_ pretende atacar de frente el desafío de cómo hacer que la teoría se aprenda a través de la práctica. Por ello, la currícula está _imaginada_ como una serie de _productos_ completos, de complejidad y scope incremental.
@@ -15,19 +30,56 @@ Nuestra propuesta de _modelo de aprendizaje_ pretende atacar de frente el desaf�
 En este issue puedes seguir y/o participar en la discusión abierta sobre el modelo: [Aprendizaje orientado a _productos_](https://github.com/Laboratoria/curricula-js/issues/3).
 
 Inicialmente, los encargados oficiales de la _malla curricular_ son [Lupo Montero](https://github.com/lupomontero), [Iván Medina](https://github.com/ivandevp) y [Rodulfo Prieto](https://github.com/chamodev), pero está abierta a sugerencias \(issues, pull requests, ...\) de todo el equipo de formación de Laboratoria así como de la comunidad en general. Queremos hacer una malla abierta.
+=======
+Los proyectos son evaluados por _coaches_ y _pares_ (_peers_) usando una
+[rúbrica](https://docs.google.com/spreadsheets/d/e/2PACX-1vSkQy1waRpQ-16sn7VogiDTy-Fz5e7OSZSYUCiHC_bkLAKYewr4L8pWJ_BG210PeULe-TjLScNQQT_x/pubhtml#)
+estandarizada que siempre incluye componentes _generales_, _habilidades
+blandas_, _habilidades técnicas_ y _ux_.
 
-## Mapa de conceptos, tecnologías y herramientas
+## Mapa de aprendizaje
 
+El _mapa de aprendizaje/proyectos_ se divide en 4 _etapas_: **Admisión**,
+**Common Core**, **Deep dive** (tracks de Front End Dev y UX Designer) y
+**Capstone**.
+
+```text
+                         => Front End Dev => Capstone
+                       //
+Admisión => Common Core
+                       \\
+                         => UX Designer => Capstone
+```
+>>>>>>> upstream/master
+
+### Etapa 0: Admission
+
+<<<<<<< HEAD
 Como guía en el proceso de diseño de la malla estamos usando un "mapa" de _conceptos_, _tecnologías_ y _herramientas_ que queremos cubrir en la currícula. Este mapa es un mapa vivo, se basa en feedback de empleadores, instructores y alumnas. Si tienes alguna sugerencia o comentario no dudes en [abrir un issue](https://github.com/Laboratoria/curricula-js/issues) ;-\)
+=======
+La etapa de _admisión_ empieza _antes_ de ser aceptada a nuestro Bootcamp. Al
+final de cada _proceso de admisión_ invitaremos a candidatas seleccionadas a
+completar un _proyecto_ presencialmente en una de nuestras sedes.
+>>>>>>> upstream/master
 
-![mapa de topicos](https://user-images.githubusercontent.com/110297/27301108-c25bf836-54f7-11e7-9ce0-3346ff435926.png)
+#### Proyecto: Trivia (necesita refactorización)
 
-## Los _cursos_
+* Duración estimada: 1 semana.
+* Tópicos: [JavaScript Basics](topics/javascript/01-basics),
+  [HTML Intro](topics/html/01-intro), [CSS](topics/css/01-css).
 
+<<<<<<< HEAD
 Cada curso debe tener un _dueño_ o _autor_, quien es responsable del curso como unidad atómica. Estos _autores_ podrán ser personal de Laboratoria así como profesionales y expertos de la industria.
+=======
+### Etapa 1: Common core
+>>>>>>> upstream/master
 
-Los _cursos_ se dividen en 3 _fases_:
+Una vez admitida a nuestro Bootcamp, todas comienzan con el _common core_. En
+esta etapa completarás los siguientes _proyectos_ en orden, cada uno
+desbloqueando el siguiente. Al final del _common core_ las estudiantes
+participan en una serie de _hackathones_ trabajando en proyectos más chicos
+propuestos por empresas/empleadores externos.
 
+<<<<<<< HEAD
 * [**Prep**](./#i-prep): cursos online, de 20 a 30 horas, que se toman **antes**
 
   de ingresar a Laboratoria como parte del proceso de selección
@@ -123,23 +175,51 @@ Main tags: `html`, `css`, `ux`, `git`, `js`, `logic`, `dom`, `eventos`.
 Secondary tags: `semantic markup`, `box model`, `selectors`, `display`, `positioning`, `problem solving`, `dom`, `eventos`, `git`, `unix shell`, `github-pages`, `flows`, `sketching`.
 
 ### [04. Crea tu propia red social](https://github.com/cemsbr/curricula-js/tree/577297dacaa16cdf729bd94786639896fc3cb43a/04-social-network/README.md)
+=======
+#### Proyecto: [Cipher](projects/01-cipher)
 
-* Track: _Common Core_
-* Autor: [Iván Medina](https://github.com/ivandevp) & [Lalo Gonzalez](https://github.com/lalogf)
-* Tiempo estimado: _3 a 4 semanas_
+* Duración estimada: 2 semanas.
+* Equipos: 1 estudiante
+* Tópicos: [Flow control](topics/javascript/02-flow-control),
+  [Strings](topics/javascript/06-strings), [Testing](topics/testing),
+  [HTML](topics/html), [SCM](topics/scm), [Shell](topics/shell),
+  [Intro a UX Design](https://github.com/Laboratoria/curricula-ux/tree/master/00-topics/00-intro-ux).
 
+#### Proyecto: [Data Dashboard](projects/02-data-dashboard)
+>>>>>>> upstream/master
+
+* Duración estimada: 3 semanas.
+* Equipos: 2 estudiantes
+* Tópicos: [Arrays](topics/javascript/04-arrays),
+  [Objects](topics/javascript/05-objects), [DOM](topics/browser/02-dom),
+  [XHR/fetch](topics/browser/04-xhr), [Visual Design](https://github.com/Laboratoria/curricula-ux/tree/master/00-topics/02-diseno-visual).
+
+<<<<<<< HEAD
 En este curso crearás una **red social**. Para ello deberás aprender a desarrollar una interfaz que se pueda visualizar correctamente en varios dispositivos \(`responsive`\) y deberás hacer uso de librerías y frameworks que permitan optimizar el flujo del desarrollo.
 
 Main Tags: `mobile-first`, `bootstrap`, `jquery`, `ux research`, `grid-system`, `web layouting`, `responsive`, `usability`.
 
 Secondary tags: `big-o`, `time-complexity`, `git-workflow`, `google-charts/d3`, `api`, `json`, `information-architecture`.
+=======
+#### Proyecto: [Social Network](projects/03-social-network)
 
-### [05. Crea tu propia librería usando JavaScript: JS Deep Dive](https://github.com/Laboratoria/curricula-js/tree/08-deep-dive/08-deep-dive)
+* Duración estimada: 3 semanas.
+* Equipos: 3 estudiantes
+* Tópicos: **Mobile first**, [Responsive](topics/css/02-responsive),
+  [URL](topics/the-web/04-url), [HTTP](topics/the-web/05-http),
+  [Async](topics/javascript/08-async), Múltiples vistas, Routing, Escritura de
+  datos, `localStorage`, [Firebase](https://firebase.google.com/).
 
-* Track: _Front-End Development_
-* Autor: [Belén Recabal](https://github.com/brecabal) & [Iván Medina](https://github.com/ivandevp)
-* Tiempo estimado: _3 semanas_
+### Etapa 2: Deep dive
+>>>>>>> upstream/master
 
+Después del _common core_ cada grupo se separa en _tracks especializados_:
+_JavaScripters_ y _UXers_. Durante esta etapa las estudiantes trabajarán en dos
+proyectos en paralelo.
+
+#### Front End Dev (JavaScripters)
+
+<<<<<<< HEAD
 En este curso construirás tu propia librería usando JavaScript, lo cual nos permitirá explorar las particularidades del lenguaje y entender como funciona por dentro, haciendo incapié en temas de performance, uso de memoria y optimización.
 
 * **UI Library**: El entregable final de este curso será construir una librería
@@ -155,11 +235,29 @@ Main tags: `types`, `operators`, `functions`, `objects`, `scope`, `closure`, `ex
 Secondary Tags: `primitive-vs-reference`, `bitwise-operators`, `function-statement`, `function-expression`, `callbacks`, `hoisting`, `iife`, `apply`, `call`, `bind`, `this`.
 
 ### [06. Construye una _Single Page App \(SPA\)_ multi-usuario consumiendo data remota](https://github.com/cemsbr/curricula-js/tree/577297dacaa16cdf729bd94786639896fc3cb43a/06-spa/README.md)
+=======
+Tópicos comunes (independientes de proyecto): [Paradigmas](topics/paradigms),
+[JavaScript Funcional](topics/functional).
 
-* Track: _Front-End Development_
-* Autor: [Iván Medina](https://github.com/ivandevp)
-* Tiempo estimado: _3 semanas_
+##### Proyecto: [Burger Queen](projects/04-burger-queen) (wip)
 
+* Duración estimada: 4 semanas.
+* Equipos: 2-3 estudiantes
+* Tópicos: **Offline first**, Service Workers, Módulos, Serverless, Cloud
+  Functions, Frameworks, React, Redux, Vue, Angular.
+
+##### Proyecto: [Markdown Links](projects/04-md-links) (wip)
+
+* Duración estimada: 4 semanas.
+* Equipos: 1 estudiante
+* Tópicos: Node.js, NPM, File System, Semver, Parsing, Markdown, CLI, HTTP,
+  Módulos, [Errores](topics/javascript/09-errors),
+  [Depuración](topics/javascript/10-debugging).
+>>>>>>> upstream/master
+
+#### UX
+
+<<<<<<< HEAD
 En este curso se verán temas de `network` para entender qué es lo que sucede por detrás de la web \(arquitectura cliente-servidor\). Profundizaremos en temas de diseño de APIs para luego poder consumirlos o desarrollarlos.
 
 * **AIRDNA clone**: El entregable final de este curso es el desarrollo de un
@@ -173,9 +271,23 @@ En este curso se verán temas de `network` para entender qué es lo que sucede p
 Main tags: `http`, `browser-apis`, `api`, `json`, `rest`, `xhr`, `firebase`, `deployment`.
 
 Secondary Tags: `tcp-ip`, `dns`, `networking`, `geolocation`, `web-storage`, `web-sockets`, `web-workers`, `web-rtc`, `auth`, `microservices`, `broadcasting`, `progressive-web-apps`, `cloud computing`, `saas-paas-iaas`.
+=======
+##### Proyecto: (tbd)
 
-### 07. Lo que todo Front-End debe saber del Back-End
+* Duración estimada: 4 semanas.
+* Tópicos: (tbd)
 
+### Etapa 3: Capstone / Elective
+
+El último mes del Bootcamp - más o menos, cada una avanza a su ritmo - se espera
+que construyas tu proyecto _final_ o _capstone_, que puede estar basado en los
+tópicos/tecnologías vistas hasta el momento, o pueden cubrir algunos de los
+tópicos sugeridos (electivos).
+>>>>>>> upstream/master
+
+#### Front End Dev (JavaScripters)
+
+<<<<<<< HEAD
 * Track: _Front-End Development_
 * Autor: [Iván Medina](https://github.com/ivandevp)
 * Tiempo estimado: _3 semanas_
@@ -191,11 +303,17 @@ El desarrollo Front End es un mundo muy amplio tal como lo es el desarrollo Back
   teniendo un Back End que se encarga del enrutamiento y la data, pero pendiente
 
   de la implementación del Front End.
+=======
+##### Proyecto: Capstone
+>>>>>>> upstream/master
 
-Main tags: `sass`, `rails`, `mv* back-end architecture`, `database`, `routing`.
+* Duración estimada: 4 semanas.
+* Tópicos: Node server?, Mobile?, Open Source?, Data?, WebOps?, Backend (Rails,
+  Django, Laravel)? (tbd)
 
-Secondary Tags: `mvc`, `orm`, `migrations`, `templating`.
+#### UX
 
+<<<<<<< HEAD
 ### [08. Paradigmas de la programación y Functional JavaScript](https://github.com/cemsbr/curricula-js/tree/577297dacaa16cdf729bd94786639896fc3cb43a/09-paradigms/README.md)
 
 * Track: _Front-End Development_
@@ -451,6 +569,44 @@ La ciencia de la computación consiste en el estudio de sistemas computacionales
 * **SCM like Git**: Construcción de un `Source Code Manager` al estilo de git
 
   que permita la navegación a través del historial de cambios.
+=======
+##### Proyecto: (tbd)
+
+* Duración estimada: 4 semanas.
+* Tópicos: (tbd)
+
+***
+
+## Índice de tópicos
+
+En uso (`v2.x`):
+
+* [JavaScript](topics/javascript)
+* [HTML](topics/html)
+* [CSS](topics/css)
+* [Browser](topics/browser)
+* [SCM: Git + GitHub](topics/scm)
+* [UNIX Shell](topics/shell)
+* [Intro a UX Design](https://github.com/Laboratoria/curricula-ux/tree/master/00-topics/00-intro-ux)
+* [Visual Design](https://github.com/Laboratoria/curricula-ux/tree/master/00-topics/02-diseno-visual)
+
+Work in progress:
+
+* Algorithms
+* Angular
+* Chatbot?
+* Data Structures
+* Databases
+* Editors
+* ESNext
+* Modules
+* Node
+* React
+* Redux
+* Serverless
+* Styleguides
+* The web stack
+>>>>>>> upstream/master
 
 Tags: `time complexity`, `big-o`, `searching`, `sorting`, `stacks`, `queues`, `graphs`, `binary-trees`.
 
@@ -462,9 +618,13 @@ Pero **POR FAVOR** no olvides leer detalladamente la [guía para contribuidores]
 
 ## Licencia & Copyright
 
+<<<<<<< HEAD
 Todos los materiales de este repo son \(c\) 2017 [Laboratoria](https://github.com/cemsbr/curricula-js/tree/577297dacaa16cdf729bd94786639896fc3cb43a/http;/laboratoria.la).
 
 ![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+=======
+Todos los materiales de este repo son (c) 2017-2018 [Laboratoria](http;//laboratoria.la/).
+>>>>>>> upstream/master
 
 Este trabajo está publicado bajo la licencia [Creative commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
