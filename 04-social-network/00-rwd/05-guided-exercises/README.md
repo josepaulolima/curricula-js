@@ -8,7 +8,11 @@
 
 ## Objetivos
 
+<<<<<<< HEAD:04-social-network/00-rwd/05-guided-exercises/README.md
 - Praticar programando com sua equipe de mentores, resolvendo exercícios `html` e `css`.
+=======
+- Praticar programando com sua equipe de professoras, resolvendo exercícios `html` e `css`.
+>>>>>>> 4f9a9f1c75d494d4b245367ede76385e3c6b7d91:04-social-network/00-rwd/06-guided-exercises/README.md
 - Praticar, praticar e praticar.
 
 ## Enunciados
@@ -47,8 +51,22 @@ Crie uma página web para os amantes dos pandas. Para obter as imagens use [este
 
 ### 4. Rock Site
 
+<<<<<<< HEAD:04-social-network/00-rwd/05-guided-exercises/README.md
 Replique as imagens a seguir colocando em prática seus conhecimentos de `grid system`. Para obter as imagens use [este link](https://github.com/rafaelbcerri/rock-site)
+=======
+Replique as imagens a seguir colocando em prática seus conhecimentos de `grid system`.
+Pode conseguir as fotografias [neste link].(https://drive.google.com/drive/folders/1i9wBosEqkP3LEwBsB-T8089-NY5rhZuN?usp=sharing)
+>>>>>>> 4f9a9f1c75d494d4b245367ede76385e3c6b7d91:04-social-network/00-rwd/06-guided-exercises/README.md
 
 ![Rock Desktop](https://raw.githubusercontent.com/Laboratoria/curricula-js/a5233dee21c1cb455bc0c044ad4eb0f6b906f960/04-social-network/00-rwd/05-guided-exercises/rock-desktop.png)
 
 ![Rock Movil](https://raw.githubusercontent.com/Laboratoria/curricula-js/a5233dee21c1cb455bc0c044ad4eb0f6b906f960/04-social-network/00-rwd/05-guided-exercises/rock-movil.png)
+<<<<<<< HEAD:04-social-network/00-rwd/05-guided-exercises/README.md
+=======
+
+***
+
+Você pode assistir ao vídeo a seguir para saber como criar e utilizar um *grid system*.
+
+[![Criando un grid system](https://img.youtube.com/vi/uUGHF0dM6GA/0.jpg)](https://www.youtube.com/watch?v=Ml36qp6Dmds)
+>>>>>>> 4f9a9f1c75d494d4b245367ede76385e3c6b7d91:04-social-network/00-rwd/06-guided-exercises/README.md

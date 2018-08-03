@@ -9,7 +9,11 @@
 ## Objetivos de Aprendizagem
 
 - Conhecer o Web Design Responsivo.
+<<<<<<< HEAD
 - Entender as vantagens do uso de Web Design Responsivo nos sites.
+=======
+- Entender as vantagens do uso de Web Design Responsivo em nosso sítio web.
+>>>>>>> 4f9a9f1c75d494d4b245367ede76385e3c6b7d91
 
 ## O que é Web Design Responsivo?
 
@@ -27,7 +31,11 @@ Os elementos básicos necessários para construir uma página com Web Design Res
 
 As vantagens de utilizar um Web Design Responsivo são:
 
+<<<<<<< HEAD
 - Com só uma versão em HTML e CSS são atendidas todas as resoluções de tela, ou seja, o site criado estará otimizado para todo tipo de dispositivo. Isso melhora a experiência do usuário que acessa sites com largura fixa, por dispositivos móveis.
+=======
+- Com só uma versão em HTML e CSS são atendidas todas as resoluções de tela, ou seja, o sítio web criado estará otimizado para todo tipo de dispositivo. Isso melhora a experiência do usuário por exemplo, com sítios web de largura fixa que são acessados de dispositivos móveis.
+>>>>>>> 4f9a9f1c75d494d4b245367ede76385e3c6b7d91
 
 - Eficiência na atualização, o site só precisa ser atualizado uma vez e funcionará em todas as plataformas. Quando temos os portais independentes para Web e Mobile é necessária a atualização duas vezes, o que cria uma necessidade maior de recursos e maior possibilidade de erros.
 

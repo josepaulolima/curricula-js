@@ -13,10 +13,14 @@
 ### Manipulação do DOM
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 jQuery nos proporciona muitos métodos para manipular elementos HTML. Os mais simples mas mais úteis são:
 =======
 jQuery nos proporciona muitos métodos para manipular elementos HTML. Os mais simples, mas mais úteis são:
 >>>>>>> upstream/pt
+=======
+jQuery nos proporciona muitos métodos para manipular elementos HTML. Os mais simples, mas mais úteis são:
+>>>>>>> 4f9a9f1c75d494d4b245367ede76385e3c6b7d91
 
 - `.text()`
 - `.html()`
@@ -37,15 +41,20 @@ A diferença é que em jQuery são funções e não propriedades.
 jQuery possui vários métodos para adicionar, eliminar ou modificar elementos do DOM facilmente.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Vamos comprender um a um.. com seu exemplo.
 =======
 Vamos comprender um a um com seu exemplo.
 >>>>>>> upstream/pt
+=======
+Vamos comprender um a um com seu exemplo.
+>>>>>>> 4f9a9f1c75d494d4b245367ede76385e3c6b7d91
 
 | Método | Descrição | Exemplo |
 | ------ | ----------- | ------- |
 | `.append()` | Insere conteúdo **ao final** do elemento de destino especificado no seletor. | `$('selector').append(conteudo);`
 | `.prepend()` | Insere conteúdo **no início** do elemento especificado. | `$('selector').prepend('conteudo');`
+<<<<<<< HEAD
 <<<<<<< HEAD
 | `.before()` | Insere conteúdo (elementos novos ouexistentes no DOM) **antes** do elemento de destino especificado no seletor. | `$('selector').before();`
 | `.after()` | Insere conteúdo (elementos novosou existentes no DOM) **depois** do elemento de destino que especifica com o seletor. | `$('selector').after();`
@@ -53,6 +62,10 @@ Vamos comprender um a um com seu exemplo.
 | `.before()` | Insere conteúdo (elementos novos ou existentes no DOM) **antes** do elemento de destino especificado no seletor. | `$('selector').before();`
 | `.after()` | Insere conteúdo (elementos novos ou existentes no DOM) **depois** do elemento de destino que especifica com o seletor. | `$('selector').after();`
 >>>>>>> upstream/pt
+=======
+| `.before()` | Insere conteúdo (elementos novos ou existentes no DOM) **antes** do elemento de destino especificado no seletor. | `$('selector').before();`
+| `.after()` | Insere conteúdo (elementos novos ou existentes no DOM) **depois** do elemento de destino que especifica com o seletor. | `$('selector').after();`
+>>>>>>> 4f9a9f1c75d494d4b245367ede76385e3c6b7d91
 | `.empty()` | Elimina os filhos do elemento selecionado. | `$('selector').empty();`
 | `.remove()` | Remove os elementos selecionados especificados pelo seletor. | `$('selector').remove();`
 | `.replaceAll()` | Substitue os elementos selecionados com novos elementos HTML. | `$('contenido').replaceAll(selector);`
@@ -83,7 +96,11 @@ Para navegar por meio do DOM, jQuery também nos oferece vários métodos maravi
 Sim, pode parecer complicado, mas lembremos que não somos um USB para armazenar toda a informação, **somos desenvolvedoras** que sabemos onde procurar quando precisamos saber algo específico.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Também é importante lembrar que a lista completa de métodos pode ser encontrada na [documentação oficial de jQuery](https://api.jquery.com/) na seççao de _manipulation_ y _traversing_.
 =======
 Também é importante lembrar que a lista completa de métodos pode ser encontrada na [documentação oficial de jQuery](https://api.jquery.com/) na seção de _manipulation_ y _traversing_.
 >>>>>>> upstream/pt
+=======
+Também é importante lembrar que a lista completa de métodos pode ser encontrada na [documentação oficial de jQuery](https://api.jquery.com/) na seção de _manipulation_ y _traversing_.
+>>>>>>> 4f9a9f1c75d494d4b245367ede76385e3c6b7d91

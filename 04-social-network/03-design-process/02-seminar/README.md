@@ -9,10 +9,14 @@
 ## Objetivos
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Revisar e consolidar os conceitos aprendidos por meio de uma classe com sua equipe de professoras
 =======
 - Revisar e consolidar os conceitos aprendidos por meio de uma classe com sua equipe de professoras.
 >>>>>>> upstream/pt
+=======
+- Revisar e consolidar os conceitos aprendidos por meio de uma classe com sua equipe de professoras.
+>>>>>>> 4f9a9f1c75d494d4b245367ede76385e3c6b7d91
 - Esclarecer todas as dúvidas que tenhas!
 
 ## Agenda
@@ -26,19 +30,27 @@
 3. **Criação:** buscamos as melhores maneiras para executar/desenvolver as funcionalidades definidas na fase 2. São elaborados desenhos e decide-se qual proposta será executada.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 4. **Prototipação:** buscamos a melhor maneira de acomodar os componentes ddo produto e elaboramos o MVP com diferentes ferramentas.
 =======
 4. **Prototipação:** buscamos a melhor maneira de acomodar os componentes do produto e elaboramos o MVP com diferentes ferramentas.
 >>>>>>> upstream/pt
+=======
+4. **Prototipação:** buscamos a melhor maneira de acomodar os componentes do produto e elaboramos o MVP com diferentes ferramentas.
+>>>>>>> 4f9a9f1c75d494d4b245367ede76385e3c6b7d91
 
 5. **Teste com usuários:** nesta etapa testamos nossos protótipos com os usuários para conseguir seu feedback.
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### 2. Reflexão sobre como foi o processo de design durante o exercício
 =======
 ### 2. Reflexão sobre como foi o processo de design durante o exercício.
 >>>>>>> upstream/pt
+=======
+### 2. Reflexão sobre como foi o processo de design durante o exercício.
+>>>>>>> 4f9a9f1c75d494d4b245367ede76385e3c6b7d91
 
 ### 3. Documentário `Design Disruptors`
 
